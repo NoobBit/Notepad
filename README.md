@@ -29,9 +29,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 #What's New
-#1. Save Feature Updated:
+#Save Feature Updated:
 When you Now click exit in the menu without saving it will create a new message.
-#2. Open and Save fixed:
+#Open and Save fixed:
 When you click the open file on\n the menu and clicked cancel the title box would say Notepad - . Now however it is fixed
-#3. Default Dir:
+#Default Dir:
 Now It shows your main dir
